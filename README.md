@@ -189,4 +189,4 @@ Deploy to staging ✅
 
 **Redapaka Sravan Kumar**
 QA Automation Engineer | Playwright | TypeScript | AWS
-[LinkedIn](https://linkedin.com/in/sravan-kumar-redapaka-26s) · [GitHub](https://github.com/Shravan8326)
+[LinkedIn](www.linkedin.com/in/sravan-redapaka-26s) · [GitHub](https://github.com/Shravan8326)
